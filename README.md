@@ -1,4 +1,4 @@
-解压 英汉词库 ecdict.tsv.zip 文件后载入 mouse-dictionary, 需要5分钟, 但是 查词则鼠标浮动上去就会立即显示, 避免了网络词库的延迟
+解压 本库内 英汉词库 ecdict.tsv.zip 文件后载入 mouse-dictionary, 需要5分钟, 但是 查词则鼠标浮动上去就会立即显示, 避免了网络词库的延迟
 
 <p align="center">
   <img width="400" src="https://github.com/wtetsu/mouse-dictionary/blob/images/logo.png" alt="Mouse Dictionary logo" />
